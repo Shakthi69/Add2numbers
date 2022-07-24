@@ -1,11 +1,11 @@
-mkdir -p /.streamlit/
+mkdir -p /.add2numbers/
 echo"\
 [general]\n\
-email\"rohith@onlinedegree.iitm.ac.in\"\n\
- >/.streamlit/credentials.coml
+email\"21f1006553@student.onlinedegree.iitm.ac.in\"\n\
+ >/.add2numbers/credentials.coml
 echo"\
 [server]\n\
 headless true\n\
 enableCORS=false\n\
 port=$PORT\n\
- >/.streamlit/config.tonl
+ >/.add2numbers/config.tonl
