@@ -8,4 +8,4 @@ echo"\
 headless true\n\
 enableCORS=false\n\
 port=$PORT\n\
- >/.add2numbers/config.tonl
+" > ~/.add2numbers/config.tonl
